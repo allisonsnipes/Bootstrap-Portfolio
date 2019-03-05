@@ -2,10 +2,20 @@
   color: black;
 }
 
+body {
+  background-image: url("../images/gray.png");
+}
+
 a {
-  color: grey;
+  color: white;
+  text-align: right;
 }
 
 a:hover {
   background-color: salmon;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
 }
