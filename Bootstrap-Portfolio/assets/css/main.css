@@ -1,0 +1,11 @@
+* {
+  color: black;
+}
+
+a {
+  color: grey;
+}
+
+a:hover {
+  background-color: salmon;
+}
