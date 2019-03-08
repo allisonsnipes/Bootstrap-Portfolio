@@ -17,6 +17,10 @@ a:hover {
   color: black;
 }
 
+.active {
+  background-color: grey;
+}
+
 .center {
   margin: auto;
   text-align: center;
