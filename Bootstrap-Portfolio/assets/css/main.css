@@ -56,6 +56,14 @@ a:hover {
   margin-left: 2em;
 }
 
+.submitbutton {
+  background-color: salmon;
+  height: 6em;
+  width: 8em;
+  text-align: center;
+  margin: auto;
+}
+
 .footer {
   margin-top: 0em;
   background-color: #e3f2fd;
