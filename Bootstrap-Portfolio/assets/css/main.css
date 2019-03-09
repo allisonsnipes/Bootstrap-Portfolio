@@ -44,6 +44,13 @@ a:hover {
   text-align: center;
 }
 
+.container {
+  margin: 0;
+  background-color: white;
+  margin-top: 3em;
+  margin-left: 2em;
+}
+
 .footer {
   margin-top: 0em;
   background-color: #e3f2fd;
