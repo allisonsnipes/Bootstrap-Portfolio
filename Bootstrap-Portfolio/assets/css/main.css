@@ -18,6 +18,10 @@ body {
   margin: 0em;
 }
 
+.naving {
+  margin-left: 90%; 
+}
+
 
 img {
   margin-right: 5px !important;
@@ -28,6 +32,7 @@ img {
 a {
   color: black;
   text-align: right;
+  padding: 10px;
 }
 
 a:hover {
