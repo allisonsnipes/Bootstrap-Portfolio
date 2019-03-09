@@ -1,10 +1,28 @@
 * {
   color: black;
   font-family: 'Roboto Condensed', sans-serif;
+  display: grid;
 }
 
 body {
   background-image: url("../images/gray.png");
+  /* min-height: 100%; */
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.halfwidth {
+  width: 50%;
+  margin: 0em;
+}
+
+
+img {
+  margin-right: 5px !important;
+  width: 100%;
+  float: left;
 }
 
 a {
@@ -23,5 +41,16 @@ a:hover {
 
 .center {
   margin: auto;
+  text-align: center;
+}
+
+.footer {
+  margin-top: 0em;
+  background-color: #e3f2fd;
+  height: 3em;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
   text-align: center;
 }
